@@ -1,0 +1,4 @@
+terraform/config/.terraform.tfstate.lock.info
+terraform/config/.terraform.lock.hcl
+terraform/config/terraform.tfstate
+terraform/config/.terraform/*
